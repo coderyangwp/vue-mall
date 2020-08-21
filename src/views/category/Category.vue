@@ -1,0 +1,241 @@
+<template>
+  <div class="wrapper">
+    <ul>
+      <li>数据列表1</li>
+      <li>数据列表2</li>
+      <li>数据列表3</li>
+      <li>数据列表4</li>
+      <li>数据列表5</li>
+      <li>数据列表6</li>
+      <li>数据列表7</li>
+      <li>数据列表8</li>
+      <li>数据列表9</li>
+      <li>数据列表10</li>
+      <li>数据列表11</li>
+      <li>数据列表12</li>
+      <li>数据列表13</li>
+      <li>数据列表14</li>
+      <li>数据列表15</li>
+      <li>数据列表16</li>
+      <li>数据列表17</li>
+      <li>数据列表18</li>
+      <li>数据列表19</li>
+      <li>数据列表20</li>
+      <li>数据列表21</li>
+      <li>数据列表22</li>
+      <li>数据列表23</li>
+      <li>数据列表24</li>
+      <li>数据列表25</li>
+      <li>数据列表26</li>
+      <li>数据列表27</li>
+      <li>数据列表28</li>
+      <li>数据列表29</li>
+      <li>数据列表30</li>
+      <li>数据列表31</li>
+      <li>数据列表32</li>
+      <li>数据列表33</li>
+      <li>数据列表34</li>
+      <li>数据列表35</li>
+      <li>数据列表36</li>
+      <li>数据列表37</li>
+      <li>数据列表38</li>
+      <li>数据列表39</li>
+      <li>数据列表40</li>
+      <li>数据列表41</li>
+      <li>数据列表42</li>
+      <li>数据列表43</li>
+      <li>数据列表44</li>
+      <li>数据列表45</li>
+      <li>数据列表46</li>
+      <li>数据列表47</li>
+      <li>数据列表48</li>
+      <li>数据列表49</li>
+      <li>数据列表50</li>
+      <li>数据列表51</li>
+      <li>数据列表52</li>
+      <li>数据列表53</li>
+      <li>数据列表54</li>
+      <li>数据列表55</li>
+      <li>数据列表56</li>
+      <li>数据列表57</li>
+      <li>数据列表58</li>
+      <li>数据列表59</li>
+      <li>数据列表60</li>
+      <li>数据列表61</li>
+      <li>数据列表62</li>
+      <li>数据列表63</li>
+      <li>数据列表64</li>
+      <li>数据列表65</li>
+      <li>数据列表66</li>
+      <li>数据列表67</li>
+      <li>数据列表68</li>
+      <li>数据列表69</li>
+      <li>数据列表70</li>
+      <li>数据列表71</li>
+      <li>数据列表72</li>
+      <li>数据列表73</li>
+      <li>数据列表74</li>
+      <li>数据列表75</li>
+      <li>数据列表76</li>
+      <li>数据列表77</li>
+      <li>数据列表78</li>
+      <li>数据列表79</li>
+      <li>数据列表80</li>
+      <li>数据列表81</li>
+      <li>数据列表82</li>
+      <li>数据列表83</li>
+      <li>数据列表84</li>
+      <li>数据列表85</li>
+      <li>数据列表86</li>
+      <li>数据列表87</li>
+      <li>数据列表88</li>
+      <li>数据列表89</li>
+      <li>数据列表90</li>
+      <li>数据列表91</li>
+      <li>数据列表92</li>
+      <li>数据列表93</li>
+      <li>数据列表94</li>
+      <li>数据列表95</li>
+      <li>数据列表96</li>
+      <li>数据列表97</li>
+      <li>数据列表98</li>
+      <li>数据列表99</li>
+      <li>数据列表100</li>
+      <li>数据列表101</li>
+      <li>数据列表102</li>
+      <li>数据列表103</li>
+      <li>数据列表104</li>
+      <li>数据列表105</li>
+      <li>数据列表106</li>
+      <li>数据列表107</li>
+      <li>数据列表108</li>
+      <li>数据列表109</li>
+      <li>数据列表110</li>
+      <li>数据列表111</li>
+      <li>数据列表112</li>
+      <li>数据列表113</li>
+      <li>数据列表114</li>
+      <li>数据列表115</li>
+      <li>数据列表116</li>
+      <li>数据列表117</li>
+      <li>数据列表118</li>
+      <li>数据列表119</li>
+      <li>数据列表120</li>
+      <li>数据列表121</li>
+      <li>数据列表122</li>
+      <li>数据列表123</li>
+      <li>数据列表124</li>
+      <li>数据列表125</li>
+      <li>数据列表126</li>
+      <li>数据列表127</li>
+      <li>数据列表128</li>
+      <li>数据列表129</li>
+      <li>数据列表130</li>
+      <li>数据列表131</li>
+      <li>数据列表132</li>
+      <li>数据列表133</li>
+      <li>数据列表134</li>
+      <li>数据列表135</li>
+      <li>数据列表136</li>
+      <li>数据列表137</li>
+      <li>数据列表138</li>
+      <li>数据列表139</li>
+      <li>数据列表140</li>
+      <li>数据列表141</li>
+      <li>数据列表142</li>
+      <li>数据列表143</li>
+      <li>数据列表144</li>
+      <li>数据列表145</li>
+      <li>数据列表146</li>
+      <li>数据列表147</li>
+      <li>数据列表148</li>
+      <li>数据列表149</li>
+      <li>数据列表150</li>
+      <li>数据列表151</li>
+      <li>数据列表152</li>
+      <li>数据列表153</li>
+      <li>数据列表154</li>
+      <li>数据列表155</li>
+      <li>数据列表156</li>
+      <li>数据列表157</li>
+      <li>数据列表158</li>
+      <li>数据列表159</li>
+      <li>数据列表160</li>
+      <li>数据列表161</li>
+      <li>数据列表162</li>
+      <li>数据列表163</li>
+      <li>数据列表164</li>
+      <li>数据列表165</li>
+      <li>数据列表166</li>
+      <li>数据列表167</li>
+      <li>数据列表168</li>
+      <li>数据列表169</li>
+      <li>数据列表170</li>
+      <li>数据列表171</li>
+      <li>数据列表172</li>
+      <li>数据列表173</li>
+      <li>数据列表174</li>
+      <li>数据列表175</li>
+      <li>数据列表176</li>
+      <li>数据列表177</li>
+      <li>数据列表178</li>
+      <li>数据列表179</li>
+      <li>数据列表180</li>
+      <li>数据列表181</li>
+      <li>数据列表182</li>
+      <li>数据列表183</li>
+      <li>数据列表184</li>
+      <li>数据列表185</li>
+      <li>数据列表186</li>
+      <li>数据列表187</li>
+      <li>数据列表188</li>
+      <li>数据列表189</li>
+      <li>数据列表190</li>
+      <li>数据列表191</li>
+      <li>数据列表192</li>
+      <li>数据列表193</li>
+      <li>数据列表194</li>
+      <li>数据列表195</li>
+      <li>数据列表196</li>
+      <li>数据列表197</li>
+      <li>数据列表198</li>
+      <li>数据列表199</li>
+      <li>数据列表200</li>
+    </ul>
+  </div>
+</template>
+
+<script>
+  import BScroll from 'better-scroll'
+  export default {
+    name: "Category",
+    data(){
+      return {
+        scroll: null
+      }
+    },
+    mounted() {
+      this.scroll = new BScroll(document.querySelector('.wrapper'),{
+        MouseWheel: true,
+        probeType: 3,
+        pullUpLoad: true
+      })
+
+      this.scroll.on('scroll', (position) => {
+        // console.log(position);
+      })
+
+      this.scroll.on('pullingUp', () => {
+        console.log('上拉加载更多')
+      })
+    }
+  }
+</script>
+
+<style scoped>
+  .wrapper {
+    height: 150px;
+    background: green;
+    overflow: hidden;
+  }
+</style>
